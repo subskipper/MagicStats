@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fd9da41d-0e98-4ad5-8243-0eaa05915c02" name="HEED7262@WL06488 2012-02-14 14:53:07" runUser="SIGMA\HEED7262" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="31468f22-5ab0-4513-8bba-931b5997dfd7">
+    <Deployment runDeploymentRoot="HEED7262_WL06488 2012-02-14 14_53_07">
+      <DeploymentItem filename="C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\bin\MagicStats.dll" />
+      <DeploymentItem filename="C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\bin\Debug\MagicStats.Domain.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-14T14:53:07.1034142+01:00" queuing="2012-02-14T14:53:08.1055144+01:00" start="2012-02-14T14:53:08.1905229+01:00" finish="2012-02-14T14:53:08.8225861+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Can_Add_Game_Stat_To_Player" storage="c:\users\heed7262\documents\visual studio 2010\projects\magicstats\magicstats.tests\bin\debug\magicstats.tests.dll" id="918fa2a7-63f1-d175-b5fd-bc1dab50cc09">
+      <Execution id="a40e0f72-9910-4ecb-8191-93ce4c3db730" />
+      <TestMethod codeBase="C:/Users/heed7262/Documents/Visual Studio 2010/Projects/MagicStats/MagicStats.Tests/bin/Debug/MagicStats.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MagicStats.Tests.PlayerTests, MagicStats.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Can_Add_Game_Stat_To_Player" />
+    </UnitTest>
+    <UnitTest name="About" storage="c:\users\heed7262\documents\visual studio 2010\projects\magicstats\magicstats.tests\bin\debug\magicstats.tests.dll" id="e48bef65-9046-abbb-fbbb-7a339bcf5492">
+      <Execution id="a3f7caf4-48cd-45fd-bbe1-0e40eb0f0937" />
+      <TestMethod codeBase="C:/Users/heed7262/Documents/Visual Studio 2010/Projects/MagicStats/MagicStats.Tests/bin/Debug/MagicStats.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MagicStats.Tests.Controllers.HomeControllerTest, MagicStats.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\heed7262\documents\visual studio 2010\projects\magicstats\magicstats.tests\bin\debug\magicstats.tests.dll" id="ca4c2b03-185e-16d6-faf9-5edcdc5f3ae1">
+      <Execution id="840eea95-b75b-49f0-a704-a08cf7b8d5da" />
+      <TestMethod codeBase="C:/Users/heed7262/Documents/Visual Studio 2010/Projects/MagicStats/MagicStats.Tests/bin/Debug/MagicStats.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MagicStats.Tests.GameResultTests, MagicStats.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="Index" storage="c:\users\heed7262\documents\visual studio 2010\projects\magicstats\magicstats.tests\bin\debug\magicstats.tests.dll" id="a6777458-a466-479f-6810-34b2fc87d1e2">
+      <Execution id="aaee0f4f-9f09-4fdd-916d-784faa339b63" />
+      <TestMethod codeBase="C:/Users/heed7262/Documents/Visual Studio 2010/Projects/MagicStats/MagicStats.Tests/bin/Debug/MagicStats.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MagicStats.Tests.Controllers.HomeControllerTest, MagicStats.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="Can_assign_UserName_To_New_Player" storage="c:\users\heed7262\documents\visual studio 2010\projects\magicstats\magicstats.tests\bin\debug\magicstats.tests.dll" id="edbb2b52-ce4a-eed1-df53-e80db12ad8b6">
+      <Execution id="cab40a63-65f9-4c6f-8a65-be2232bd7907" />
+      <TestMethod codeBase="C:/Users/heed7262/Documents/Visual Studio 2010/Projects/MagicStats/MagicStats.Tests/bin/Debug/MagicStats.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MagicStats.Tests.PlayerTests, MagicStats.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Can_assign_UserName_To_New_Player" />
+    </UnitTest>
+    <UnitTest name="Can_Assign_User_Name_To_New_Player" storage="c:\users\heed7262\documents\visual studio 2010\projects\magicstats\magicstats.tests\bin\debug\magicstats.tests.dll" id="b486a69e-6179-7c75-528b-840c6ce57f13">
+      <Execution id="261d3658-ffc4-4681-b257-e088ecd22a3f" />
+      <TestMethod codeBase="C:/Users/heed7262/Documents/Visual Studio 2010/Projects/MagicStats/MagicStats.Tests/bin/Debug/MagicStats.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MagicStats.Tests.PlayerTests, MagicStats.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Can_Assign_User_Name_To_New_Player" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="918fa2a7-63f1-d175-b5fd-bc1dab50cc09" executionId="a40e0f72-9910-4ecb-8191-93ce4c3db730" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6777458-a466-479f-6810-34b2fc87d1e2" executionId="aaee0f4f-9f09-4fdd-916d-784faa339b63" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b486a69e-6179-7c75-528b-840c6ce57f13" executionId="261d3658-ffc4-4681-b257-e088ecd22a3f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ca4c2b03-185e-16d6-faf9-5edcdc5f3ae1" executionId="840eea95-b75b-49f0-a704-a08cf7b8d5da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e48bef65-9046-abbb-fbbb-7a339bcf5492" executionId="a3f7caf4-48cd-45fd-bbe1-0e40eb0f0937" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="edbb2b52-ce4a-eed1-df53-e80db12ad8b6" executionId="cab40a63-65f9-4c6f-8a65-be2232bd7907" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a40e0f72-9910-4ecb-8191-93ce4c3db730" testId="918fa2a7-63f1-d175-b5fd-bc1dab50cc09" testName="Can_Add_Game_Stat_To_Player" computerName="WL06488" duration="00:00:00.0142159" startTime="2012-02-14T14:53:08.2305269+01:00" endTime="2012-02-14T14:53:08.5205559+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a40e0f72-9910-4ecb-8191-93ce4c3db730">
+    </UnitTestResult>
+    <UnitTestResult executionId="aaee0f4f-9f09-4fdd-916d-784faa339b63" testId="a6777458-a466-479f-6810-34b2fc87d1e2" testName="Index" computerName="WL06488" duration="00:00:00.2329475" startTime="2012-02-14T14:53:08.5225561+01:00" endTime="2012-02-14T14:53:08.7655804+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aaee0f4f-9f09-4fdd-916d-784faa339b63">
+    </UnitTestResult>
+    <UnitTestResult executionId="261d3658-ffc4-4681-b257-e088ecd22a3f" testId="b486a69e-6179-7c75-528b-840c6ce57f13" testName="Can_Assign_User_Name_To_New_Player" computerName="WL06488" duration="00:00:00.0006909" startTime="2012-02-14T14:53:08.7695808+01:00" endTime="2012-02-14T14:53:08.7755814+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="261d3658-ffc4-4681-b257-e088ecd22a3f">
+    </UnitTestResult>
+    <UnitTestResult executionId="840eea95-b75b-49f0-a704-a08cf7b8d5da" testId="ca4c2b03-185e-16d6-faf9-5edcdc5f3ae1" testName="TestMethod1" computerName="WL06488" duration="00:00:00.0002567" startTime="2012-02-14T14:53:08.7775816+01:00" endTime="2012-02-14T14:53:08.7825821+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="840eea95-b75b-49f0-a704-a08cf7b8d5da">
+    </UnitTestResult>
+    <UnitTestResult executionId="a3f7caf4-48cd-45fd-bbe1-0e40eb0f0937" testId="e48bef65-9046-abbb-fbbb-7a339bcf5492" testName="About" computerName="WL06488" duration="00:00:00.0003995" startTime="2012-02-14T14:53:08.7845823+01:00" endTime="2012-02-14T14:53:08.7875826+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a3f7caf4-48cd-45fd-bbe1-0e40eb0f0937">
+    </UnitTestResult>
+    <UnitTestResult executionId="cab40a63-65f9-4c6f-8a65-be2232bd7907" testId="edbb2b52-ce4a-eed1-df53-e80db12ad8b6" testName="Can_assign_UserName_To_New_Player" computerName="WL06488" duration="00:00:00.0003845" startTime="2012-02-14T14:53:08.7905829+01:00" endTime="2012-02-14T14:53:08.7945833+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cab40a63-65f9-4c6f-8a65-be2232bd7907">
+    </UnitTestResult>
+  </Results>
+</TestRun>

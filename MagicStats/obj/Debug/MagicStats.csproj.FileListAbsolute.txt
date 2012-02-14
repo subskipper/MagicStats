@@ -1,0 +1,7 @@
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\bin\MagicStats.dll
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\bin\MagicStats.pdb
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\bin\EntityFramework.dll
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\bin\EntityFramework.xml
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\obj\Debug\MagicStats.dll
+C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats\obj\Debug\MagicStats.pdb

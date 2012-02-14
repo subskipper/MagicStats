@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicStats", "MagicStats\MagicStats.csproj", "{CC5A58DA-1B94-4AF0-AAFE-A6A14CBDE93D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicStats.Tests", "MagicStats.Tests\MagicStats.Tests.csproj", "{F6A8A176-4308-4120-95B6-8CE449874AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicStats.Domain", "MagicStats.Domain\MagicStats.Domain.csproj", "{898B9CCB-8A3C-4E44-A345-94F9A86CF8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5A58DA-1B94-4AF0-AAFE-A6A14CBDE93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5A58DA-1B94-4AF0-AAFE-A6A14CBDE93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5A58DA-1B94-4AF0-AAFE-A6A14CBDE93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5A58DA-1B94-4AF0-AAFE-A6A14CBDE93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A8A176-4308-4120-95B6-8CE449874AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A8A176-4308-4120-95B6-8CE449874AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A8A176-4308-4120-95B6-8CE449874AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A8A176-4308-4120-95B6-8CE449874AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898B9CCB-8A3C-4E44-A345-94F9A86CF8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898B9CCB-8A3C-4E44-A345-94F9A86CF8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898B9CCB-8A3C-4E44-A345-94F9A86CF8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898B9CCB-8A3C-4E44-A345-94F9A86CF8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
