@@ -71,6 +71,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\images\menu\corner_blue_left.png" />
+    <Content Include="Content\images\menu\corner_blue_right.png" />
+    <Content Include="Content\images\menu\corner_inset_left.png" />
+    <Content Include="Content\images\menu\corner_inset_right.png" />
+    <Content Include="Content\images\menu\corner_left.png" />
+    <Content Include="Content\images\menu\corner_right.png" />
+    <Content Include="Content\images\menu\dot.gif" />
+    <Content Include="Content\images\menu\dot.png" />
+    <Content Include="Content\images\menu\dot_blue.png" />
+    <Content Include="Content\images\menu\magnifier.png" />
+    <Content Include="Content\images\menu\menu_left.png" />
+    <Content Include="Content\images\menu\menu_right.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />

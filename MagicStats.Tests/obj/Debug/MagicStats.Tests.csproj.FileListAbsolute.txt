@@ -8,3 +8,13 @@ C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Te
 C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.pdb
 C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\obj\Debug\MagicStats.Tests.dll
 C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\obj\Debug\MagicStats.Tests.pdb
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.Tests.dll.config
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.Tests.dll
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.Tests.pdb
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.dll
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.Domain.dll
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.Domain.pdb
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\bin\Debug\MagicStats.pdb
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\obj\Debug\MagicStats.Tests.dll
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Tests\obj\Debug\MagicStats.Tests.pdb
