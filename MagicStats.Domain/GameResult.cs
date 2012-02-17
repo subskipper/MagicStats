@@ -9,6 +9,7 @@ namespace MagicStats.Domain
         private Player m_Opponent;
         private DateTime m_GameDate;
 
+        // Add GameType?
 
         public GameResult(){}
         public GameResult(GameResultEnum gameResultEnum, Player opponent, DateTime gameDate)

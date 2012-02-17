@@ -3,3 +3,8 @@ C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Do
 C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\obj\Debug\MagicStats.Domain.dll
 C:\Users\heed7262\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\obj\Debug\MagicStats.Domain.pdb
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\bin\Debug\MagicStats.Domain.dll
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\bin\Debug\MagicStats.Domain.pdb
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\obj\Debug\MagicStats.Domain.dll
+C:\Users\RORE7474\Documents\Visual Studio 2010\Projects\MagicStats\MagicStats.Domain\obj\Debug\MagicStats.Domain.pdb

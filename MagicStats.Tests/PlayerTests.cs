@@ -47,7 +47,6 @@ namespace MagicStats.Tests
             player.AddGameResult(result);
 
             Assert.AreEqual(1, player.MatchHistory.Count);
-
         }
     }
 }
