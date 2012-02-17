@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Enums\GameResultEnum.cs" />
+    <Compile Include="Enums\GameType.cs" />
+    <Compile Include="Game.cs" />
     <Compile Include="GameResult.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

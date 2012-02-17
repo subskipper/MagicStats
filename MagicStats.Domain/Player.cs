@@ -11,7 +11,6 @@ namespace MagicStats.Domain
 
         public IList<GameResult> MatchHistory
         {
-            //TODO: Return ReadonlyCollection instead.
             get { return new ReadOnlyCollection<GameResult>(m_MatchHistory); }
         }
 
